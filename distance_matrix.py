@@ -108,5 +108,6 @@ if __name__ == "__main__":
     # Create calculator and compute composite distance matrix
     calculator = CFSTDistanceCalculator(df)
     composite_matrix = calculator.create_composite_distance_matrix(questions, group_col)
+    composite_matrix.to_csv('composite_distance_matrix.csv', index=False)
     print("Composite Distance Matrix:")
     print(composite_matrix)
