@@ -108,4 +108,4 @@ def generate_dataset(num_files_to_generate=1000, batch_size=5):
 # --- EXECUTE SCRIPT ---
 if __name__ == "__main__":
     # This will generate 1000 files, each containing 5 religions.
-    generate_dataset(num_files_to_generate=1000, batch_size=5)
+    generate_dataset(num_files_to_generate=10, batch_size=5)
