@@ -12,3 +12,4 @@ wvs_data_all.csv
 /.ipynb_checkpoints
 /.vscode
 /finetuning_dataset
+/scaled
