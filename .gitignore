@@ -3,3 +3,12 @@
 wvs_data_all.csv
 19812022.zip
 /wvs_processed.csv
+/finetuning_dataset_gpt4.jsonl
+/finetuning_dataset_llama3.jsonl
+/finetuning_dataset_ddgs.jsonl
+/ckpt
+/F00011931-WVS_Time_Series_1981-2022_csv_v5_0
+/F00011931-WVS_Time_Series_1981-2022_csv_v5_0.zip
+/.ipynb_checkpoints
+/.vscode
+/finetuning_dataset
